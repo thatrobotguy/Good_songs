@@ -79,6 +79,7 @@ I'm a beleiver
 why can't we be friends
 The clash
 Nirvana
+Elvis Presley (and other remakes) - Can't Help Falling In Love
 Mr. Big - To Be With You (MV)
 Billy Squier - The Stroke
 Europe - The Final Countdown(with lyrics)

@@ -1,15 +1,10 @@
 # Good_songs
 I needed a place to document what songs I listen to because I do not like paying Google or Apple or Spotify.
 
-Actual good songs
+Good artists
 ```
-train
-five for fighting
-Semisonic - Closing Tim
-The Cranberries - Zombie
-green day
-Stand By Me, Ben E King, 1961
-The Verve - Bitter Sweet Symphony (Official Video)
+Train
+Green Day
 Scorpions
 Aerosmith
 Guns and Roses
@@ -27,11 +22,18 @@ Bon Jovi
 Eagles
 Toto
 Heart
-Alphaville
 Bryan Adams
-Train
 Journey
 The Cars
+```
+Actual good songs
+```
+five for fighting
+Semisonic - Closing Tim
+The Cranberries - Zombie
+Stand By Me, Ben E King, 1961
+The Verve - Bitter Sweet Symphony (Official Video)
+Alphaville
 DIrty Dancing - Hungry Eyes
 Whitney Houston
 Survivor

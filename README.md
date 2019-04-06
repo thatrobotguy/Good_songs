@@ -35,7 +35,7 @@ Stand By Me, Ben E King, 1961
 The Verve - Bitter Sweet Symphony (Official Video)
 Alphaville
 DIrty Dancing - Hungry Eyes
-Whitney Houston
+Whitney Houston - I Will Always Love You
 Survivor
 Marvin Gaye - Lets get it on
 Dead or Alive

@@ -116,6 +116,8 @@ I Can't Fight This Feeling Anymore - REO Speedwagon
 Chicago - You're The Inspiration
 Peter Cetera - Glory Of Love
 Train - Calling All Angels
+Daniel Powter - Bad Day
+Train - Drive By
 ```
 
 Songs for the memes

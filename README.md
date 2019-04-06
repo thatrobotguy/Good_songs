@@ -25,6 +25,7 @@ Heart
 Bryan Adams
 Journey
 The Cars
+John Denver
 ```
 Actual good songs
 ```
@@ -109,6 +110,12 @@ The Guess Who - Share the Land
 Feel like makin' love to you
 Bryan Adams - (Everything I Do) I Do It For You - Original version - https://www.youtube.com/watch?v=Y0pdQU87dc8
 4 Non Blondes - What's Up
+Bonnie Tyler - Total Eclipse of the Heart
+Juice Newton - Angel Of The Morning
+I Can't Fight This Feeling Anymore - REO Speedwagon
+Chicago - You're The Inspiration
+Peter Cetera - Glory Of Love
+
 ```
 
 Songs for the memes

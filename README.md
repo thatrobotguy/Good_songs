@@ -26,9 +26,11 @@ Bryan Adams
 Journey
 The Cars
 John Denver
+Supertramp
 ```
 Actual good songs
 ```
+Give A Little Bit - Supertramp
 five for fighting
 Semisonic - Closing Tim
 The Cranberries - Zombie

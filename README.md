@@ -29,6 +29,7 @@ John Denver
 Supertramp
 Warrant
 Def Leopard
+Poison
 ```
 Actual good songs
 ```

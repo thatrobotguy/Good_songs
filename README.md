@@ -30,6 +30,9 @@ Supertramp
 Warrant
 Def Leopard
 Poison
+Skid Row
+Tesla
+
 ```
 Actual good songs
 ```

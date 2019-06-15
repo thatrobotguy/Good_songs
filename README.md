@@ -27,6 +27,8 @@ Journey
 The Cars
 John Denver
 Supertramp
+Warrant
+Def Leopard
 ```
 Actual good songs
 ```

@@ -36,6 +36,7 @@ Cinderella - Don't Know What You Got (Till It's Gone)
 Slaughter - Fly To The Angels
 Bad Company - Shooting Star
 Tom Petty
+Styx
 ```
 Actual good songs
 ```

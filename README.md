@@ -244,4 +244,5 @@ The Script - "Hall Of Fame" Lyrics
 Europe - The Final Countdown(with lyrics)
 Norman Greenbaum - Spirit In The Sky
 25 Or 6 To 4
+Faces - Stay with Me
 ```
